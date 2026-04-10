@@ -6,4 +6,4 @@ To meet Zyfra's requirements, it was necessary to do a full machine learning pip
 ## Results.
 The selected model achieved a sMAPE of 9.3305% during the cross-validation phase.
 ## GitHub link.
-
+https://github.com/laperezortiz/Data-Science-Projects/tree/main/Gold_extraction_prediction_project
