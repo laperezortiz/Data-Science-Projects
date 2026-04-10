@@ -1,19 +1,15 @@
-# Data Science Projects Portfolio.
+# Data Science Projects Portfolio
 
-Welcome to my project portfolio. This repository contains a collection of data science and machine learning projects focused on data cleaning, exploratory analysis, predictive modeling, and business insights.
+Welcome to my portfolio of data science and machine learning projects. This repository includes end-to-end work in data cleaning, exploratory analysis, predictive modeling, model evaluation, and business-focused insights.
 
-## About Me.
-I am a data scientist with experience building end-to-end machine learning projects, from data preparation and feature engineering to model evaluation and interpretation.
+## About Me
+I am a data scientist with experience building complete machine learning workflows, from data preparation and feature engineering to model training, evaluation, and interpretation.
 
-## What You’ll Find Here.
-This repository includes projects involving:
-- exploratory data analysis
-- supervised machine learning
-- model evaluation and tuning
-- data visualization
-- business-oriented insights
+## Projects
+- [Churn Telecommunications Project](./Churn_telecomm_project): A customer churn prediction project for Interconnect using data preprocessing, feature engineering, model comparison, and performance evaluation.
+- [Gold Extraction Prediction Project](./Gold_extraction_prediction_project): A regression project focused on predicting gold recovery rates using industrial process data, exploratory analysis, and machine learning models evaluated with sMAPE.
 
-## Tools and Libraries.
+## Skills and Tools
 - Python
 - Pandas
 - NumPy
@@ -24,12 +20,9 @@ This repository includes projects involving:
 - Matplotlib
 - Seaborn
 
-## Repository Structure.
-Each project has its own folder and its own README file with more detail on:
-- problem
-- process
-- results
+## Repository Structure
+Each project is organized in its own folder and includes the files needed to understand the workflow, data, and results.
 
-## Contact.
+## Contact
 - LinkedIn: https://www.linkedin.com/in/laperezortiz/
 - GitHub: https://github.com/laperezortiz
